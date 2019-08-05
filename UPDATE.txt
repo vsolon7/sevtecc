@@ -25,3 +25,5 @@ How to Upgrade Your SevTech Server:
 6) Upload the entire libraries folder to the server also. As changes could of been made and you'll need them otherwise you'll have bad times.
 
 7) Run your server. Profit!
+
+kjhkhj
