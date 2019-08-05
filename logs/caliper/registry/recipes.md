@@ -1,0 +1,110 @@
+# recipes Registry Analysis
+
+This file contains information about how mods are using the recipes registry.
+67099010 out of 67108863 ids available. 99.985% of this registry is still
+available. This data is anonymous, and is not automatically submitted to any
+online service.
+
+
+| Mod Name             | Entries | Utilization |
+|----------------------|---------|-------------|
+| crafttweaker         | 1385    | 0.002%      |
+| buildcrafttransport  | 870     | 0.001%      |
+| mysticalagriculture  | 550     | <0.001%     |
+| primal               | 506     | <0.001%     |
+| abyssalcraft         | 439     | <0.001%     |
+| mekanism             | 421     | <0.001%     |
+| extraplanets         | 381     | <0.001%     |
+| actuallyadditions    | 278     | <0.001%     |
+| immersiveengineering | 278     | <0.001%     |
+| minecraft            | 271     | <0.001%     |
+| thebetweenlands      | 252     | <0.001%     |
+| environmentaltech    | 249     | <0.001%     |
+| bibliocraft          | 243     | <0.001%     |
+| appliedenergistics2  | 241     | <0.001%     |
+| ceramics             | 207     | <0.001%     |
+| betterwithmods       | 195     | <0.001%     |
+| betterwithaddons     | 188     | <0.001%     |
+| quark                | 174     | <0.001%     |
+| tconstruct           | 158     | <0.001%     |
+| ironchest            | 155     | <0.001%     |
+| galacticraftcore     | 153     | <0.001%     |
+| rftools              | 150     | <0.001%     |
+| cyclicmagic          | 136     | <0.001%     |
+| bloodmagic           | 134     | <0.001%     |
+| pneumaticcraft       | 124     | <0.001%     |
+| nex                  | 123     | <0.001%     |
+| darkutils            | 103     | <0.001%     |
+| twilightforest       | 102     | <0.001%     |
+| enderutilities       | 95      | <0.001%     |
+| stevescarts          | 92      | <0.001%     |
+| industrialforegoing  | 81      | <0.001%     |
+| rustic               | 81      | <0.001%     |
+| integrateddynamics   | 75      | <0.001%     |
+| galacticraftplanets  | 73      | <0.001%     |
+| modularrouters       | 56      | <0.001%     |
+| extendedcrafting     | 54      | <0.001%     |
+| advgenerators        | 43      | <0.001%     |
+| ferdinandsflowers    | 42      | <0.001%     |
+| car                  | 41      | <0.001%     |
+| conarm               | 40      | <0.001%     |
+| betterwithmods:bwm   | 36      | <0.001%     |
+| storagedrawers       | 31      | <0.001%     |
+| mysticalagradditions | 30      | <0.001%     |
+| buildcraftsilicon    | 29      | <0.001%     |
+| refinedstorage       | 27      | <0.001%     |
+| actuallybaubles      | 27      | <0.001%     |
+| vc                   | 24      | <0.001%     |
+| rftoolscontrol       | 23      | <0.001%     |
+| quantumstorage       | 23      | <0.001%     |
+| xnet                 | 22      | <0.001%     |
+| traverse             | 22      | <0.001%     |
+| chisel               | 20      | <0.001%     |
+| chiselsandbits       | 19      | <0.001%     |
+| mob_grinding_utils   | 18      | <0.001%     |
+| cd4017be_lib         | 18      | <0.001%     |
+| astralsorcery        | 17      | <0.001%     |
+| elevatorid           | 16      | <0.001%     |
+| immersivepetroleum   | 14      | <0.001%     |
+| tcomplement          | 13      | <0.001%     |
+| ironjetpacks         | 12      | <0.001%     |
+| huntingdim           | 12      | <0.001%     |
+| tallgates            | 12      | <0.001%     |
+| waterstrainer        | 10      | <0.001%     |
+| scannable            | 10      | <0.001%     |
+| rebornstorage        | 9       | <0.001%     |
+| teslacorelib         | 9       | <0.001%     |
+| modularmachinery     | 8       | <0.001%     |
+| pickletweaks         | 8       | <0.001%     |
+| jaff                 | 7       | <0.001%     |
+| cookingforblockheads | 6       | <0.001%     |
+| buildcraftfactory    | 6       | <0.001%     |
+| jarm                 | 6       | <0.001%     |
+| enderstorage         | 6       | <0.001%     |
+| natura               | 6       | <0.001%     |
+| farmingforblockheads | 5       | <0.001%     |
+| chargers             | 4       | <0.001%     |
+| simplegenerators     | 4       | <0.001%     |
+| horsepower           | 4       | <0.001%     |
+| immersivetech        | 3       | <0.001%     |
+| buildcraftbuilders   | 3       | <0.001%     |
+| buildcraftcore       | 3       | <0.001%     |
+| witherskelefix       | 3       | <0.001%     |
+| advancedmortars      | 2       | <0.001%     |
+| improvedbackpacks    | 2       | <0.001%     |
+| simplyarrows         | 2       | <0.001%     |
+| supersoundmuffler    | 2       | <0.001%     |
+| overloaded           | 2       | <0.001%     |
+| yoyos                | 2       | <0.001%     |
+| storagenetwork       | 2       | <0.001%     |
+| compactmachines3     | 2       | <0.001%     |
+| bonsaitrees          | 2       | <0.001%     |
+| antiqueatlas         | 2       | <0.001%     |
+| translocators        | 2       | <0.001%     |
+| buildcraftlib        | 1       | <0.001%     |
+| rangedpumps          | 1       | <0.001%     |
+| microblockcbe        | 1       | <0.001%     |
+| guideapi             | 1       | <0.001%     |
+| animalium            | 1       | <0.001%     |
+| refinedstorageaddons | 1       | <0.001%     |
+| immcraft             | 1       | <0.001%     |
